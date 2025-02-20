@@ -1,5 +1,5 @@
 {
-  "name": "1.2",
+  "name": "1.1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lsof": "^0.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
